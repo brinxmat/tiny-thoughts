@@ -1,1 +1,1 @@
-# tiny-thoughts
+# tiny-thoughts — a collection of random tech thoughts
